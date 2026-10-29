@@ -39,6 +39,9 @@ The practicals cover data preprocessing, exploratory data analysis, statistical 
 - Understanding regression algorithms
 - Implementing classification algorithms
 
+## Google Drive Link
+https://drive.google.com/drive/folders/1SzUu0OMTHvBbYA1f7YmbwqPFnToEaV41?usp=sharing
+
 ## Author
 **Pranita Sakarde**
 
